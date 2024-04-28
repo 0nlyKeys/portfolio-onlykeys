@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: "Beaufort for LOL";
+  src: url(assets/fonts/BeaufortforLOL-Bold.ttf);
+}
+
+@font-face {
+  font-family: "Spiegel Regular";
+  src: url(assets/fonts/Spiegel_TT_Regular.ttf);
+}
+@font-face {
+  font-family: "Spiegel SemiBold";
+  src: url(assets/fonts/Spiegel_TT_SemiBold.ttf);
+}
+
+
+body{
+  background-color: #258E7B;
+}
